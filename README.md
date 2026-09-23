@@ -30,7 +30,7 @@ The table aims to provide a systematic overview of current ophthalmic foundation
 
 ## File
 
-- [Table S1 — Expanded Technical Comparison of Ophthalmic Foundation Models](Table_S1_Expanded_Technical_Comparison_of_Ophthalmic_Foundation_Models.xlsx)
+- [Table S1 — Expanded Technical Comparison of Ophthalmic Foundation Models](Supplementary table S1.xlsx)
 
 ## Citation
 
